@@ -97,6 +97,7 @@ nav ul{
     grid-template-columns: 1fr 1fr 1fr;
     gap: 1rem;
     padding: 0;
+    margin: 1em 0;
 }
 
 nav a{
